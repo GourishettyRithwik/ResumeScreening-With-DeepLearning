@@ -104,12 +104,3 @@ The performance of the models is evaluated using metrics such as accuracy, preci
 Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-Contact
-For any questions or inquiries, please contact:
-
-Anukalp Mishra
-
-GitHub: anukalp-mishra
