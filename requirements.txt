@@ -1,0 +1,13 @@
+flask
+PyPDF2
+python-docx
+joblib
+scikit-learn
+nltk
+pandas
+numpy
+seaborn
+matplotlib
+wordcloud
+pytesseract
+Pillow
